@@ -100,7 +100,8 @@ Used to identify key drivers of performance:
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
 
 ├── data/
 │   ├── campanhas_multiplatforma.csv
@@ -114,6 +115,7 @@ Used to identify key drivers of performance:
 └── outputs/
     └── charts/
         └── feature_importance/
+
 
 ---
 
