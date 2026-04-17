@@ -112,8 +112,8 @@ Used to identify key drivers of performance:
 │   ├── modeling.py
 │   └── preprocessing.py
 └── outputs/
-    └── charts/
-        └── feature_importance/
+    └── readouts/
+        └── recomendacoes_estrategicas_otimizacao_roas.pptx
 ```
 ---
 
