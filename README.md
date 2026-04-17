@@ -99,23 +99,25 @@ Used to identify key drivers of performance:
 - Scikit-learn
 
 ---
-
 ## 📁 Project Structure
 
-
-├── data/
-│   ├── campanhas_multiplatforma.csv
-│   └── analise_criativos.csv
-├── notebooks/
-│   ├── multiplatform_analysis.ipynb
-│   └── creative_analysis.ipynb
-├── src/
-│   ├── modeling.py
-│   └── preprocessing.py
-└── outputs/
-    └── charts/
-        └── feature_importance/
-
+```
+data/
+├── campanhas_multiplatforma.csv
+├── analise_criativos.csv
+│
+notebooks/
+├── multiplatform_analysis.ipynb
+├── creative_analysis.ipynb
+│
+src/
+├── preprocessing.py
+├── modeling.py
+│
+outputs/
+├── charts/
+└── feature_importance/
+```
 
 ---
 
