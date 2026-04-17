@@ -102,13 +102,18 @@ Used to identify key drivers of performance:
 
 ## 📂 Project Structure
 
-/data
-|_ campanhas_multiplatforma.csv
-|_ analise_criativos.csv
-
-/notebooks
-|_ multiplatform_analysis.ipynb
-|_ creative_analysis.ipynb
+├── data/
+│   ├── campanhas_multiplatforma.csv
+│   └── analise_criativos.csv
+├── notebooks/
+│   ├── multiplatform_analysis.ipynb
+│   └── creative_analysis.ipynb
+├── src/
+│   ├── modeling.py
+│   └── preprocessing.py
+└── outputs/
+    └── charts/
+        └── feature_importance/
 
 /src
 |_ modeling.py
